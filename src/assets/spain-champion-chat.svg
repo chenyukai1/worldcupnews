@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="780" height="230" viewBox="0 0 780 230" role="img" aria-labelledby="title desc">
-  <title id="title">西班牙冠军买5000聊天截图</title>
-  <desc id="desc">@所有人 西班牙冠军 买5000</desc>
+  <title id="title">不要买西班牙冠军聊天截图</title>
+  <desc id="desc">@所有人 不要买西班牙冠军</desc>
   <defs>
     <linearGradient id="avatarBg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#f4d87a"/>
@@ -28,5 +28,5 @@
   <g filter="url(#shadow)">
     <path d="M174 94 H690 Q714 94 714 118 V158 Q714 182 690 182 H170 Q146 182 146 158 V139 L128 132 L146 123 V118 Q146 94 174 94 Z" fill="#ffffff"/>
   </g>
-  <text x="185" y="151" fill="#111827" font-family="Inter, 'Noto Sans SC', 'Microsoft YaHei', sans-serif" font-size="34" font-weight="500">@所有人 西班牙冠军 买5000</text>
+  <text x="185" y="151" fill="#111827" font-family="Inter, 'Noto Sans SC', 'Microsoft YaHei', sans-serif" font-size="32" font-weight="500">@所有人 不要买西班牙冠军</text>
 </svg>

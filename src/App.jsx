@@ -576,8 +576,8 @@ export default function App() {
           <span>官方赛程 + 实时赔率</span>
           <h2>104 场比赛按比赛日追踪，赔率从后端安全拉取。</h2>
         </div>
-        <div className="hero-chat-shot" aria-label="西班牙冠军热门截图">
-          <img src={SpainChampionChat} alt="@所有人 西班牙冠军 买5000" />
+        <div className="hero-chat-shot" aria-label="不要买西班牙冠军热门截图">
+          <img src={SpainChampionChat} alt="@所有人 不要买西班牙冠军" />
         </div>
       </section>
 
